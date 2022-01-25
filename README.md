@@ -1,1 +1,1 @@
-# Analysis_of_covid19-vaccination_India_dataset
+# Analysis_of_covid19_and_vaccination_dataset_of_India
