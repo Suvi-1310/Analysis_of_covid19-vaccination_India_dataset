@@ -212,7 +212,7 @@ ax.set_title("Top 5 most affected states of India", size = 15)
 - Displaying the Plot:
   - The plot is displayed with ```plt.show()```
 
-**Multiple visualization also done according dataset for better anlaysis, Please feel free to watch in python script**
+**Multiple visualization also done according to dataset for better anlaysis, Please feel free to watch in python script**
 
 ✨ **I'm open to feedback and discussions! Reach out with any questions, suggestions, or collaboration ideas.** ✨
 
