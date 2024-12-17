@@ -1,1 +1,5 @@
-# covid19_and_vaccination_analysis_of_India_using_python
+# India covid19 and vaccination data analysis - Python Project
+
+## Contents 📖
+- [Introduction](#introduction)
+- [Import Required Libraries](#import-required-libraries)
