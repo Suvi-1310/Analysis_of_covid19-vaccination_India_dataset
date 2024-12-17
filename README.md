@@ -214,12 +214,12 @@ ax.set_title("Top 5 most affected states of India", size = 15)
 
 **Multiple visualization also done according to dataset for better anlaysis, Please feel free to watch in python script**
 
-✨ **I'm open to feedback and discussions! Reach out with any questions, suggestions, or collaboration ideas.** ✨
+✨ **I'm open to feedback and discussions! Reach out with any questions, suggestions, or collaboration ideas.** 
 
 👉 [LinkedIn | Suviksha Pathariya](https://www.linkedin.com/in/suviksha-pathariya/) 
 
-⭐ **Don’t forget to star and follow this repository if you found it useful!** ⭐
+⭐ **Don’t forget to star and follow this repository if you found it useful!** 
 
-💡 **Stay tuned for more features and updates coming soon!** 💡
+💡 **Stay tuned for more features and updates coming soon!** 
 
 
